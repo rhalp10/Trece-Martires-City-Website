@@ -45,7 +45,7 @@ a {
   Elements
   ================================================== */
 .btn {
-  background-color: #199EB8;
+  background-color: #003871 ;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #fff;
@@ -54,7 +54,7 @@ a {
 }
 
 .btn:hover {
-  background-color: #E04F00;
+  background-color: #ef2428;
   color: #fff;
 }
 
@@ -97,13 +97,14 @@ a:hover {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  background: #199EB8;
+  background: #003871 ;
   color: #fff;
   text-align: center;
   font-size: 24px;
 }
 
 .scrolltop:hover, .scrolltop:active, .scrolltop:focus {
+  
   color: #fff !important;
   opacity: .75;
 }
@@ -162,7 +163,7 @@ a:hover {
   Header Styling
 ================================================== */
 #header {
-  background: #199EB8;
+  background: #003871;
   height: 70px;
 }
 
@@ -323,7 +324,7 @@ a:hover {
 }
 
 .nav-menu ul li:hover {
-  background: #199EB8;
+  background: #003871 ;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -544,7 +545,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 70px;
   height: 70px;
   margin-bottom: 15px;
-  background: #199EB8;
+  background: #003871 ;
   color: #fff;
   font-size: 24px;
   text-align: center;
@@ -567,7 +568,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   Call-to-action Styling
   ================================================== */
 .cta {
-  background-color: #199EB8;
+  background-color: #025aa5 ;
   padding: 25px 0;
 }
 
@@ -713,7 +714,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .team .card:hover .card-title-wrap {
-  background-color: #199EB8;
+  background-color: #00336b;
 }
 
 .team .card:hover .card-title-wrap .card-title, .team .card:hover .card-title-wrap .card-text {
@@ -775,7 +776,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #199EB8;
+  color: #00336b;
   float: left;
 }
 
@@ -823,7 +824,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #199EB8;
+  background: #003871 ;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -833,7 +834,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #23c2e1;
+  background: #0275d8;
 }
 
 /* ==================================================
