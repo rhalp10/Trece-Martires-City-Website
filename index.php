@@ -1,11 +1,3 @@
-<!--   THIS IF FOR Joomla Extention Call
-<jdoc:include type="modules" name="menu" style="none" />
-<jdoc:include type="modules" name="container" style="none" />
-<jdoc:include type="modules" name="footer" style="none" />
-<jdoc:include type="message"  />
-<jdoc:include type="component"  />
-<?php echo this->params->get('copyright'); ?>
- -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -13,7 +5,6 @@
     <title>Index</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
-    <meta content="" name="description">
     
     <!-- Facebook Opengraph integration: https://developers.facebook.com/docs/sharing/opengraph -->
     <meta property="og:title" content="">
@@ -30,7 +21,7 @@
     <meta name="twitter:image" content="">
 
     <!-- Favicon -->
-    <link href="img/logo.ico" rel="icon">
+    <link href="logo.ico" rel="icon">
   
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,500,700|Roboto:400,900" rel="stylesheet">

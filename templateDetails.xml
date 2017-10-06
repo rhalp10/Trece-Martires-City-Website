@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<extension 
+	version="2.5" 
+	type="template"
+	method="upgrade"
+	client="site">
+	<creationDate>2017-10-04</creationDate>
+	<author>Rhalp Darren Cabrera</author>
+	<authorEmail>rhalpdarrencabrera@gmail.com</authorEmail>
+	<authorUrl>http://www.github.com/rhalp10</authorUrl>
+	<copyright>Official Website of Trece Martires City 2017</copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.2</version>
+	<description>My New Template</description>
+	<files>
+		<folder>css</folder>
+		<folder>js</folder>
+		<folder>img</folder>
+		<folder>lib</folder>
+		<folder>scss</folder>
+		<filename>index.php</filename>
+		<filename>index.html</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>logo.ico</filename>
+	</files>
+	<positions>
+		<position>menu</position>
+		<position>showcase</position>
+		<position>breadcrumb</position>
+		<position>left</position>
+		<position>right</position>
+		<position>top</position>
+		<position>content1</position>
+		<position>content2</position>
+		<position>content3</position>
+		<position>user1</position>
+		<position>user2</position>
+		<position>user3</position>
+		<position>user4</position>
+		<position>footer</position>
+	</positions>
+	<config>
+		<fields names="params">
+			<fieldset name="general" label="General">
+				<field 
+					name="logo_text" 
+					type="text" 
+					label="Logo Text" 
+					description="Enter your logo description"/>
+					<field 
+					name="copyright_text" 
+					type="text" 
+					label="copyright Text" 
+					description="Enter your copyright description"/>
+				
+			</fieldset>
+		</fields>
+	</config>
+</extension>
