@@ -519,7 +519,7 @@
         </div>
       </div>
     </footer>
-    <a class="scrolltop" href="#"><span class="fa fa-angle-up"></span></a> <!-- JavaScript
+    <a class="scrolltop" href="#"><span class="fa fa-angle-up"></span></a> <!-- JavaScript-->
 
 
     <!-- Required JavaScript Libraries -->
